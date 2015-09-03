@@ -24,7 +24,7 @@
     "sbx-zf2/data-grid":"*"
   },
   "suggest": {
-    "sbx-zf2/access-control": "RBAC acl implementation with NVC structure scanner",
+    "sbx-zf2/access-control": "RBAC acl implementation with NVC structure scanner"
   },
   "autoload": {
     "psr-0": {
